@@ -1,7 +1,7 @@
 # My portfolio
 
 Welcome to my GitHub. 
-It's a living space.I invite You to visit it again and again.
+It's a living space. I invite You to visit it again and again.
 
 ## Table of Contents
 * [About Me](#about-me)
