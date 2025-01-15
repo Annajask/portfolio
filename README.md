@@ -22,8 +22,8 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
 - SQL data base
 - SQL queries
 - Testing
-..* [Bugs reporting examples](https://docs.google.com/spreadsheets/d/1NAmaL8V-hji8M6nLGC7vqY-xPxF8sMNTKyJa_G7B9Uo/edit?usp=sharing)
-
+   - [Bugs reporting examples](https://docs.google.com/spreadsheets/d/1NAmaL8V-hji8M6nLGC7vqY-xPxF8sMNTKyJa_G7B9Uo/edit?usp=sharing)
+     
 ## Trainings
 - WCAG 2.2 for testers and analysts - CODE:ME
 - Python - basics - Girls Code Fun Foundation
