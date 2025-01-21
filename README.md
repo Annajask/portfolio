@@ -19,7 +19,7 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
 
 ## Projects
 - REST API testing with Postman
-   - [Jsonplaceholder API - sample requestes in Postman](https://docs.google.com/spreadsheets/d/1DcRsDuVgXAuV-BjlJkfBk5l2poj_N3niMMZSPF2siKk/edit?usp=sharing)
+   - [Jsonplaceholder API - sample requests in Postman](https://docs.google.com/spreadsheets/d/1DcRsDuVgXAuV-BjlJkfBk5l2poj_N3niMMZSPF2siKk/edit?usp=sharing)
 - SQL data base
 - SQL queries
 - Testing
