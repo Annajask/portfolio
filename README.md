@@ -30,6 +30,8 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
    - [NCP Test Plan](NCP_Test_Plan.md)
      
 ## Trainings
+- Software Tester acc ISTQB - Codebrainers
+- Systems testing - Kuźnia talentów Foundation
 - WCAG 2.2 for testers and analysts - CODE:ME
 - Python - basics - Girls Code Fun Foundation
 - Introduction to Python & Apps - Code First Girls
