@@ -25,7 +25,7 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
    - [CorpUp](https://docs.google.com/presentation/d/1_BgN-ruo6TNXNh1cHYB0d2x-7NP-7QGi3-mtjmJEXRE/edit?usp=sharing)
      A database created for the HR department, containing basic employee data, relevant departments and organizational levels, as well as data used to manage training needs. Examples of queries to modify, filter and analyze database content.   
 - Testing
-   - [Bugs reporting examples in Jira](https://docs.google.com/spreadsheets/d/1NAmaL8V-hji8M6nLGC7vqY-xPxF8sMNTKyJa_G7B9Uo/edit?usp=sharing)
+   - [Bugs reporting examples in Jira](https://docs.google.com/presentation/d/1RUMXrfkiVp40McDrDsd4foxUpxI-9phQ7coHFWR0Des/edit?usp=sharing)
    - [Bugs reporting examples - grid view](https://docs.google.com/spreadsheets/d/1NAmaL8V-hji8M6nLGC7vqY-xPxF8sMNTKyJa_G7B9Uo/edit?gid=937866385#gid=937866385)
    - [NCP Test Plan](NCP_Test_Plan.md)
      
