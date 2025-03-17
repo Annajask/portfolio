@@ -27,7 +27,7 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
 - Testing
    - [Bugs reporting examples in Jira](https://docs.google.com/presentation/d/1RUMXrfkiVp40McDrDsd4foxUpxI-9phQ7coHFWR0Des/edit?usp=sharing)
    - [Bugs reporting examples - grid view](https://docs.google.com/spreadsheets/d/1NAmaL8V-hji8M6nLGC7vqY-xPxF8sMNTKyJa_G7B9Uo/edit?gid=937866385#gid=937866385)
-   - [NCP Test Plan](NCP_Test_Plan.md)
+   - [NCP Test Plan](NCP_Test_Plan.md), [Booking Test Plan](Booking_Test_Plan.md)
      
 ## Trainings
 - Software Tester acc ISTQB - Codebrainers
