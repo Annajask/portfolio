@@ -24,9 +24,9 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
    - [CorpUp](https://docs.google.com/presentation/d/1_BgN-ruo6TNXNh1cHYB0d2x-7NP-7QGi3-mtjmJEXRE/edit?usp=sharing)
      A database created for the HR department, containing basic employee data, relevant departments and organizational levels, as well as data used to manage training needs. Examples of queries to modify, filter and analyze database content
    - BestBook (link)
-     A database dedicated to library, used SQL queries enable analyse users preferences, perform statistics and comparisons of reading habits
+     A database dedicated to a library, with SQL queries used to analyze users' preferences, perform statistics and and make comparisons of reading habits
    - SthSpecial (link)
-     A database created for gift shop. Enables manage various product categories, monitor products availability, market trends, analysis in terms of f.e. suppliers and their location ( and risks in case of transport or material availability issues)
+     A database created for a gift shop, enabling the management of various product categories, monitoring products availability, market trends, analysis in terms of f.e. suppliers and their location (as well as risks related to transport or material availability issues)
 - REST API testing with Postman
    - [JSONPlaceholder API - sample requests](https://docs.google.com/spreadsheets/d/1DcRsDuVgXAuV-BjlJkfBk5l2poj_N3niMMZSPF2siKk/edit?usp=sharing)
    - [REST Countries API - sample requests](https://docs.google.com/spreadsheets/d/1DcRsDuVgXAuV-BjlJkfBk5l2poj_N3niMMZSPF2siKk/edit?gid=131933373#gid=131933373)
