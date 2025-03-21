@@ -18,12 +18,18 @@ It's a living space. I invite You to visit it again and again.
 Software Testing | Quality Assurance | Business Analysis | Scrum
 
 ## Projects
+- Case Study
+   - MoTo - request from the Client MoTo to create web aplication for quality issue management. Activities in very early stage of the product - collecting customer requirements (in Miro - link), create User Stories (link), prepare preliminary Test Plan (link) and Test Cases (link)- based on the collected information only (and without the application itself, as at this project level it does not exist yet). Tools used - Jira, TestLink (?), Confluence, Miro.  
+- SQL Database & Queries
+   - [CorpUp](https://docs.google.com/presentation/d/1_BgN-ruo6TNXNh1cHYB0d2x-7NP-7QGi3-mtjmJEXRE/edit?usp=sharing)
+     A database created for the HR department, containing basic employee data, relevant departments and organizational levels, as well as data used to manage training needs. Examples of queries to modify, filter and analyze database content
+   - BestBook (link)
+     A database dedicated to library, used SQL queries enable analyse users preferences, perform statistics and comparisons of reading habits
+   - SthSpecial (link)
+     A database created for gift shop. Enables manage various product categories, monitor products availability, market trends, analysis in terms of f.e. suppliers and their location ( and risks in case of transport or material availability issues)
 - REST API testing with Postman
    - [JSONPlaceholder API - sample requests](https://docs.google.com/spreadsheets/d/1DcRsDuVgXAuV-BjlJkfBk5l2poj_N3niMMZSPF2siKk/edit?usp=sharing)
    - [REST Countries API - sample requests](https://docs.google.com/spreadsheets/d/1DcRsDuVgXAuV-BjlJkfBk5l2poj_N3niMMZSPF2siKk/edit?gid=131933373#gid=131933373)
-- SQL Database & Queries
-   - [CorpUp](https://docs.google.com/presentation/d/1_BgN-ruo6TNXNh1cHYB0d2x-7NP-7QGi3-mtjmJEXRE/edit?usp=sharing)
-     A database created for the HR department, containing basic employee data, relevant departments and organizational levels, as well as data used to manage training needs. Examples of queries to modify, filter and analyze database content.   
 - Testing
    - [Bugs reporting examples in Jira](https://docs.google.com/presentation/d/1RUMXrfkiVp40McDrDsd4foxUpxI-9phQ7coHFWR0Des/edit?usp=sharing)
    - [Bugs reporting examples - grid view](https://docs.google.com/spreadsheets/d/1NAmaL8V-hji8M6nLGC7vqY-xPxF8sMNTKyJa_G7B9Uo/edit?gid=937866385#gid=937866385)
