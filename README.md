@@ -23,7 +23,7 @@ Software Testing | Quality Assurance | Business Analysis | Scrum
 - SQL Database & Queries
    - [CorpUp](https://docs.google.com/presentation/d/1_BgN-ruo6TNXNh1cHYB0d2x-7NP-7QGi3-mtjmJEXRE/edit?usp=sharing)
      A database created for the HR department, containing basic employee data, relevant departments and organizational levels, as well as data used to manage training needs. Examples of queries to modify, filter and analyze database content
-   - BestBook (link)
+   - [BestBooks](https://docs.google.com/presentation/d/1RM941BEHI3rTUn8kGaiUSD4DCzrSSpJtFYNNiMOtXt0/edit?usp=sharing)
      A database dedicated to a library, with SQL queries used to analyze users' preferences, perform statistics and and make comparisons of reading habits
    - SthSpecial (link)
      A database created for a gift shop, enabling the management of various product categories, monitoring products availability, market trends, analysis in terms of f.e. suppliers and their location (as well as risks related to transport or material availability issues)
